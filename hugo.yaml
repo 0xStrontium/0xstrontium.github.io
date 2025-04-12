@@ -16,8 +16,6 @@ params:
       url: 'mailto:TebbaaX@protonmail.com'
     - name: X
       url: https://twitter.com/TebbaaX
-    - name: github
-      url: http://github.com/TebbaaX
     - name: rss
       url: /index.xml
 
