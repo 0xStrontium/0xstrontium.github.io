@@ -1,4 +1,4 @@
-baseURL: "https://tebbaax.github.io"
+baseURL: "https:/0xdeadbeef.ma"
 languageCode: en-us
 title: TebbaaX's Blog
 theme: PaperMod
@@ -9,8 +9,8 @@ params:
   subtitle: It was called the sand war bcs it was sandy.
   ShowReadingTime: true
   homeInfoParams:
-    Title: "🍕 TebbaaX's Blog "
-    Content: "Cybersecurity blog dedicated to explore various areas of Offensive and Defensive security, CTFs and much more! 🍕 (Don't forget to read FAQ.)"
+    Title: "🍕 T's blog "
+    Content: "Cybersecurity blog dedicated to explore various areas of Offensive and Defensive security, CTFs and much more! 🍕 (Read FAQ.)"
   socialIcons:
     - name: email
       url: 'mailto:TebbaaX@protonmail.com'
