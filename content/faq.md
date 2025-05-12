@@ -1,6 +1,6 @@
 ---
 title: "Frequently Asked Questions & info : "
-subtitle: General info about this blog and the metarials it contains.
+subtitle: Info about this blog and the metarials it contains.
 url: "/faq"
 ---
 
@@ -18,8 +18,8 @@ url: "/faq"
 
 > **_How to reach out?_**
 
-- _Email is prefered > TebbaaX@protonmail.com and PGP can be found [here](/pgp.txt)_.
+- _Email is prefered > TebbaaX[at]protonmail.com - PGP can be found [here](/pgp.txt)_.
 
 > **_Keep in mind_**
 
-- _Blogs, articles, project on this blog including opinions are mine & only mine and doesn't represent in any way my emloyer_.
+- _Blogs, articles, projects, articlesand writeup on this blog including opinions are mine & only mine and doesn't represent in any way my emloyer*_.
