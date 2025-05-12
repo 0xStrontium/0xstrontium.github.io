@@ -1,6 +1,6 @@
 baseURL: "https:/0xdeadbeef.ma"
 languageCode: en-us
-title: TebbaaX's Blog
+title: deadbeef Blog
 theme: PaperMod
 enableEmoji: true
 defaultTheme: light
@@ -9,7 +9,7 @@ params:
   subtitle: It was called the sand war bcs it was sandy.
   ShowReadingTime: true
   homeInfoParams:
-    Title: "🍕 T's blog "
+    Title: "🍕 0xTea's blog "
     Content: "Cybersecurity blog dedicated to explore various areas of Offensive and Defensive security, CTFs and much more! 🍕 (Read FAQ.)"
   socialIcons:
     - name: email
