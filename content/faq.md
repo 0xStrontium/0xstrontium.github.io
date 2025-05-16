@@ -22,4 +22,4 @@ url: "/faq"
 
 > **_!Important!_**
 
-- _Blogs, articles, projects & writeups on this blog including opinions are mine & only mine and doesn't represent in any way my emloyer*_.
+- _Blogs, articles, projects & writeups on this blog including opinions are mine & only mine and doesn't represent in any way my emloyer_.
