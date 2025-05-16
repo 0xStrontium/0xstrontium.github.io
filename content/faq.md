@@ -20,6 +20,6 @@ url: "/faq"
 
 - _Email is prefered > TebbaaX[at]protonmail.com - PGP can be found [here](/pgp.txt)_.
 
-> **_Keep in mind_**
+> **_!Important!_**
 
-- _Blogs, articles, projects, articlesand writeup on this blog including opinions are mine & only mine and doesn't represent in any way my emloyer*_.
+- _Blogs, articles, projects & writeups on this blog including opinions are mine & only mine and doesn't represent in any way my emloyer*_.
