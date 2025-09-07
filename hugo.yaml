@@ -10,7 +10,7 @@ params:
   ShowReadingTime: true
   homeInfoParams:
     Title: "🍕 0xTea's blog "
-    Content: "Blog on Offensive and Defensive security, Vulnerability and Threat research, CTFs and all the fun stuff! 🍕 (Read FAQ.)"
+    Content: "Blog on Offensive and Defensive security, Vulnerability and Threat research, CTFs and all the fun stuff! 🍕"
   socialIcons:
     - name: email
       url: 'mailto:TebbaaX@protonmail.com'
