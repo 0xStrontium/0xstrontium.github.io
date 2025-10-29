@@ -1,19 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>TebbaaX&#39;s Blog</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on TebbaaX&#39;s Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>0xdeadbeef.ma</title>
+    <link>//localhost:1313/0xdeadbeef.ma/</link>
+    <description>Recent content on 0xdeadbeef.ma</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/0xdeadbeef.ma/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Archive</title>
+      <link>//localhost:1313/0xdeadbeef.ma/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/0xdeadbeef.ma/archives/</guid>
+      <description>archives</description>
+    </item>
     <item>
       <title>Frequently Asked Questions &amp; info : </title>
-      <link>http://localhost:1313/faq/</link>
+      <link>//localhost:1313/0xdeadbeef.ma/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/faq/</guid>
-      <description>- General info about this blog and the metarials it contains. This blog contains a small collection of technical write-ups, ranging from CTF challenges to Bug Bounty, general infosec stuff, OSINT, and more. Can i use the material provided by this blog?
-Yes! Feel free to use the materials in this blog under the condition of giving proper credit, as per the Creative Commons (CC) licensing. How to Get Updates?</description>
+      <guid>//localhost:1313/0xdeadbeef.ma/faq/</guid>
+      <description>&lt;h4 id=&#34;--general-info-about-this-blog-and-the-metarials-it-contains&#34;&gt;- &lt;em&gt;General info about this blog and the metarials it contains.&lt;/em&gt;&lt;/h4&gt;&#xA;&lt;hr&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Can i use the material provided by this blog?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;Yes! Feel free to use the materials in this blog under the condition of giving proper credit, as per the &lt;em&gt;Creative Commons (CC) licensing&lt;/em&gt;&lt;/em&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;em&gt;How to Get Updates?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;I&amp;rsquo;m not intending to start a newsletter, but you can use the &lt;a href=&#34;//localhost:1313/0xdeadbeef.ma/index.xml&#34;&gt;RSS feed&lt;/a&gt; with &lt;a href=&#34;https://www.privacytools.io/privacy-rss-feed-readers&#34;&gt;RSS feed readers&lt;/a&gt; additionally you can follow on &lt;a href=&#34;https://twitter.com/TebbaaX&#34;&gt;X (Twitter)&lt;/a&gt; for updates&lt;/em&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;em&gt;How to reach out?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Search</title>
+      <link>//localhost:1313/0xdeadbeef.ma/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/0xdeadbeef.ma/search/</guid>
+      <description>search</description>
     </item>
   </channel>
 </rss>

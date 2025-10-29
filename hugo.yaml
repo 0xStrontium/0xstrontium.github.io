@@ -34,7 +34,7 @@ menu:
   # - identifier: posts
   #   name: Blog
   #   url: /posts/
-    weight: 20
+  #  weight: 20
   - identifier: search 
     name: Search
     url: /search
