@@ -9,11 +9,11 @@ params:
   subtitle: It was called the sand war bcs it was sandy.
   ShowReadingTime: true
   homeInfoParams:
-    Title: "🍕 0xTea's blog "
-    Content: "Blog on Offensive and Defensive security, Vulnerability and Threat research, CTFs and all the fun stuff! 🍕"
+    Title: "🍕 Tea's blog "
+    Content: "Blog on Offensive and Defensive security, Vulnerability and Threat research, CTFs and all the fun stuff!"
   socialIcons:
     - name: email
-      url: 'mailto:TebbaaX@protonmail.com'
+      url: 'mailto:tea@0xdeadbeef.ma'
     - name: X
       url: https://twitter.com/TebbaaX
     - name: rss
