@@ -1,6 +1,10 @@
 ---
-title: DPRK Beavers in North Africa.
-date: 29/10/2025
+date: 2025-10-30
+draft: false
+params:
+  author: tea
+title: Beaver at the gates, DPRK activity in North africa
+weight: 10
 ---
 
 Test, test, test.

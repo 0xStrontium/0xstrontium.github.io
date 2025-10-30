@@ -2,16 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/0xdeadbeef.ma/</loc>
+    <loc>https:/0xdeadbeef.ma/</loc>
   </url><url>
-    <loc>//localhost:1313/0xdeadbeef.ma/archives/</loc>
+    <loc>https:/0xdeadbeef.ma/archives/</loc>
   </url><url>
-    <loc>//localhost:1313/0xdeadbeef.ma/categories/</loc>
+    <loc>https:/0xdeadbeef.ma/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/0xdeadbeef.ma/faq/</loc>
+    <loc>https:/0xdeadbeef.ma/posts/beavers-in-north-africa/</loc>
   </url><url>
-    <loc>//localhost:1313/0xdeadbeef.ma/search/</loc>
+    <loc>https:/0xdeadbeef.ma/faq/</loc>
   </url><url>
-    <loc>//localhost:1313/0xdeadbeef.ma/tags/</loc>
+    <loc>https:/0xdeadbeef.ma/posts/</loc>
+  </url><url>
+    <loc>https:/0xdeadbeef.ma/search/</loc>
+  </url><url>
+    <loc>https:/0xdeadbeef.ma/tags/</loc>
   </url>
 </urlset>
