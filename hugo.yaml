@@ -14,8 +14,6 @@ params:
   socialIcons:
     - name: email
       url: 'mailto:tea@0xdeadbeef.ma'
-    - name: X
-      url: https://twitter.com/TebbaaX
     - name: rss
       url: /index.xml
 
