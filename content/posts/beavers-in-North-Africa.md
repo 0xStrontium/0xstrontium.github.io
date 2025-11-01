@@ -8,5 +8,4 @@ weight: 10
 ---
 
 
-
-{{ $image := resources.Get "images/dprk-expanded.google.png" }}
+![Google/Mandiant](images/dprk-expanded.google.png)
