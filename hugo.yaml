@@ -4,6 +4,7 @@ title: 0xdeadbeef.ma
 theme: PaperMod
 enableEmoji: true
 defaultTheme: light
+enableRobotsTXT: true
 
 params:
   subtitle: It was called the sand war bcs it was sandy.

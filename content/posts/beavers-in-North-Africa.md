@@ -7,4 +7,6 @@ title: Beaver at the gates, DPRK activity in North africa
 weight: 10
 ---
 
-Test, test, test.
+
+
+{{ $image := resources.Get "images/dprk-expanded.google.png" }}
