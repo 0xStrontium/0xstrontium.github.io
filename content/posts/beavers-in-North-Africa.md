@@ -1,5 +1,5 @@
 ---
-date: 2025-10-30
+date: 2025-10-31
 draft: false
 params:
   author: tea
@@ -12,4 +12,4 @@ weight: 10
 ---
 
 
-![Google/Mandiant](images/dprk-expanded.google.png)
+![Google/Mandiant](../images/dprk-expanded.google.png)
