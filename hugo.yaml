@@ -11,6 +11,9 @@ params:
   ShowReadingTime: true
   homeInfoParams:
     Title: "🍕 Tea's blog "
+    params: 
+     icon: "/images/favicon.ico"
+     iconHeight: 45
     Content: "Blog on Offensive and Defensive security, Vulnerability and Threat research, CTFs and all the fun stuff!"
   socialIcons:
     - name: email
