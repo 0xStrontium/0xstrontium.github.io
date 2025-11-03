@@ -6,14 +6,18 @@ enableEmoji: true
 defaultTheme: light
 enableRobotsTXT: true
 
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+
 params:
   subtitle: It was called the sand war bcs it was sandy.
   ShowReadingTime: true
   homeInfoParams:
-    Title: "🍕 Tea's blog "
-    params: 
-     icon: "/images/favicon.ico"
-     iconHeight: 45
+    Title: "<img src="/favicon.ico" alt="logo"> Tea's blog "
     Content: "Blog on Offensive and Defensive security, Vulnerability and Threat research, CTFs and all the fun stuff!"
   socialIcons:
     - name: email
