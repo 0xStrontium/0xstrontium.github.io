@@ -17,7 +17,7 @@ params:
   subtitle: It was called the sand war bcs it was sandy.
   ShowReadingTime: true
   homeInfoParams:
-    Title: 'Title: "<img src="/images/0xPizza.png" alt="0xdeadbeef.ma blog" width="120"> '
+    Title: 'Blog : <img src="/images/0xPizza.png" width="70"> '
     Content: "Blog on Offensive and Defensive security, Vulnerability and Threat research, CTFs and all the fun stuff!"
   socialIcons:
     - name: email
