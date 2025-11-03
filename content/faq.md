@@ -18,8 +18,8 @@ url: "/faq"
 
 > **_How to reach out?_**
 
-- _Email is prefered > TebbaaX[at]protonmail.com - PGP can be found [here](/pgp.txt)_.
+- _Email is prefered > tea[at]0xdeadbeef.ma - PGP can be found [here](/pgp.txt)_.
 
-> **_Very Important!_**
+> **_Disclaimer_**
 
-- _Blogs, articles, projects & writeups on this blog including opinions, are mine & only mine and doesn't **represent in any way my emloyer**_.
+- _Blogs, articles, projects & writeups on this blog including opinions, are mine & only mine and doesn't **represent in any way my emloyer**_ Blog articles, research in this blog is purely for educational & informative purposes.
