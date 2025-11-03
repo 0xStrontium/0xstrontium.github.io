@@ -22,4 +22,4 @@ url: "/faq"
 
 > **_Disclaimer_**
 
-- _Blogs, articles, projects & writeups on this blog including opinions, are mine & only mine and doesn't **represent in any way my emloyer**_ Blog articles, research in this blog is purely for educational & informative purposes.
+- _Blogs, articles, projects & writeups on this blog including opinions, are mine & only mine and doesn't **represent in any way my emloyer**_, Blog posts, articles & research in this website are purely for educational & informative purposes.
