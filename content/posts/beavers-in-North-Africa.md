@@ -13,3 +13,6 @@ weight: 10
 
 
 ![Google/Mandiant](../images/dprk-expanded.google.png)
+
+
+Content on the way! however if you have information on DPRK activity in africa tip at ```tea[at]0xdeadbeef.ma```. 
